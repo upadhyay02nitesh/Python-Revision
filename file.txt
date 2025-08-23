@@ -1,0 +1,6 @@
+I am fine
+What about you?
+Generative AI (GenAI) refers to artificial intelligence systems that can create new content, such as text, images, music, or code, based on the data they have learned from. 
+These models use techniques like deep learning and transformers to generate human-like outputs. 
+GenAI is widely used in chatbots, content creation, code generation, and even image synthesis. 
+Some popular GenAI tools include ChatGPT, DALL·E, and MidJourney.
